@@ -1,10 +1,10 @@
 {
-  "name": "karma",
+  "name": "karma-2",
   "description": "Spectacular Test Runner for JavaScript.",
   "homepage": "http://karma-runner.github.io/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma.git"
+    "url": "git://github.com/geoffreyfloyd/karma.git"
   },
   "bugs": {
     "url": "https://github.com/karma-runner/karma/issues"
@@ -355,6 +355,7 @@
     "Fredrik Bonander <carl.fredrik.bonander@gmail.com>",
     "Gavin Aiken <gavin@aiken.org.uk>",
     "Geert Van Laethem <geert.van.laethem@pandora.be>",
+    "Geoffrey Floyd",
     "Glenn Anderson <ondoher@gmail.com>",
     "Greg Thornton <xdissent@me.com>",
     "Gregory Cowan <g.cowan@amnzero.nl>",
