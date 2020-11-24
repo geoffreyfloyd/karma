@@ -1,6 +1,12 @@
+<a name="4.4.2"></a>
+## [4.4.2](https://github.com/karma-runner/karma/compare/v4.4.1...v4.4.2) (2020-11-24)
+
+### Features
+
+* **config:** add log4jsCategories to config
+
 <a name="4.4.1"></a>
 ## [4.4.1](https://github.com/karma-runner/karma/compare/v4.4.0...v4.4.1) (2019-10-18)
-
 
 ### Bug Fixes
 
