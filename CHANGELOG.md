@@ -1,3 +1,10 @@
+<a name="4.4.3"></a>
+## [4.4.3](https://github.com/karma-runner/karma/compare/v4.4.2...v4.4.3) (2020-11-24)
+
+### Bug Fixes
+
+* **config:** Add missing build to release
+
 <a name="4.4.2"></a>
 ## [4.4.2](https://github.com/karma-runner/karma/compare/v4.4.1...v4.4.2) (2020-11-24)
 
